@@ -1,5 +1,47 @@
-# 💫 About Me:
-👋 Hello there! I'm Swarnim Shekhar, a passionate data science enthusiast with expertise in Python, machine learning (ML), deep learning (DL), natural language processing (NLP), and artificial intelligence (AI). With an understanding of C++ and knowledge of data structures and algorithms (DSA) and object-oriented programming (OOP), I bring a diverse skills set to the table.<br><br>🧠 My journey in the realm of data science began with a curiosity-driven exploration of Python, gradually delving deeper into ML, DL, and NLP. Along the way, I've developed a knack for crafting innovative solutions to complex problems and leveraging data-driven insights to drive meaningful outcomes.<br><br>💼 Aspiring to make a mark in the data science domain, I thrive in dynamic environments where I can apply my analytical prowess and creative thinking to tackle real-world challenges. Whether it's building predictive models, optimizing algorithms, or uncovering hidden patterns in data, I'm driven by a relentless pursuit of excellence and a passion for turning data into actionable intelligence.<br><br>🔍 Beyond my technical skills, I bring a touch of wit and sarcasm to the table, infusing a dash of personality into everything I do. I believe that a sense of humour is not just a valuable asset in navigating the complexities of data science but also a catalyst for fostering collaboration and innovation.<br><br>🚀 Currently on a mission to expand my knowledge horizon and refine my skills, I'm committed to lifelong learning and staying abreast of the latest developments in the field. With a vision to empower businesses and organizations with data-driven insights, I'm excited about the endless possibilities that lie ahead in the ever-evolving landscape of data science.<br><br>📫 Let's connect and embark on this exhilarating journey together!
+# 👋 Hi, I'm Swarnim Shekhar
+
+🎯 Entry-level Data Scientist / Machine Learning Engineer with hands-on experience in building end-to-end ML workflows, working with real-world datasets, and deploying models into production environments.
+
+## 💼 Applied Experience
+- Contributed to fraud detection and customer analytics use-cases during Data Science and AI Engineering internships
+- Automated data preprocessing, feature engineering, and model validation workflows using Python and SQL
+- Improved model performance through structured experimentation and evaluation
+- Supported REST API-based model deployment and CI/CD integration for reproducible ML systems
+
+## 🤖 AI & Machine Learning
+- Classical ML: Scikit-learn, XGBoost, model training, evaluation, and optimization
+- Deep Learning: TensorFlow, PyTorch
+- LLM Applications: Real-time conversational system with memory and tool integration
+- Responsible AI: Bias mitigation and dataset-centric ML (CONBIAS)
+
+## 📊 Data Science & Analytics
+- Exploratory Data Analysis (EDA)
+- Statistical analysis & feature engineering
+- Customer segmentation & behavioral data
+- Data-driven insight generation for decision-making
+
+## ⚙️ Tools & Technologies
+**Languages:** Python, SQL, C++  
+**Data:** Pandas, NumPy  
+**MLOps & Deployment:** REST APIs, CI/CD, Streamlit  
+**Version Control:** Git  
+
+## 🌍 Open Source
+Contributor to **Google JAX**  
+- Performance optimizations and bug fixes in core modules
+
+## 🚀 Featured Projects
+- CONBIAS – Bias Mitigation in Machine Learning
+- SmartNPC – LLM-powered Conversational AI System
+- (Customer Segmentation & Fraud Detection case studies – in progress)
+
+## 🎯 Currently Seeking
+Applied Data Science, Machine Learning, and AI roles where I can:
+- Solve real-world problems with data
+- Build production-ready ML systems
+- Generate measurable business impact
+
+📫 Let’s collaborate!
 
 
 ## 🌐 Socials:
